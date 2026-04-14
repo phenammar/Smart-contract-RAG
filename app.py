@@ -31,7 +31,7 @@ llm = ChatGroq(
     model="llama-3.1-8b-instant",
     temperature=0.3,
     max_tokens=256,
-    api_key="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" # feel free (it is free key anyway)
+    api_key=""
 )
 
 
